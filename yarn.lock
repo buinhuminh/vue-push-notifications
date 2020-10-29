@@ -595,9 +595,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@cometchat-pro/chat@^1.8.6":
-  version "1.8.6"
-  resolved "https://registry.yarnpkg.com/@cometchat-pro/chat/-/chat-1.8.6.tgz#3da0f8c8989b5712316f9ba84803a09aa15d143d"
+"@cometchat-pro/chat@^2.1.2":
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/@cometchat-pro/chat/-/chat-2.1.2.tgz#312c15e4a0e804cb9f25a3265902854a386a4522"
+  integrity sha512-k2jeJbE2sFSxSOdMaO3r50Sj1xCADeDES0G0oJ6BjysidipV8bu/SNNcdV2PTLX/NLG9n04q0PKEb1Ztwb6ggQ==
 
 "@firebase/app-types@0.4.3", "@firebase/app-types@0.x":
   version "0.4.3"
